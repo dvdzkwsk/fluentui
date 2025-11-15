@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/components/CAPMenu.tsx"],"sourcesContent":["import { MenuState } from '@fluentui/react-components';\n\nexport function useCAPMenuStylesHook(state: MenuState) {\n  return state;\n}\n"],"names":["useCAPMenuStylesHook","state"],"mappings":";;;;+BAEgBA;;;eAAAA;;;AAAT,SAASA,qBAAqBC,KAAgB;IACnD,OAAOA;AACT"}

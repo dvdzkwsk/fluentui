@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/index.ts"],"sourcesContent":["export { isConformant } from './isConformant';\nexport type { BaseConformanceTest, ConformanceTest, IsConformantOptions, TestObject, TestOptions } from './types';\n"],"names":["isConformant"],"mappings":"AAAA,SAASA,YAAY,QAAQ,iBAAiB"}
